@@ -18,7 +18,7 @@ function controlloParola(stringa){
 }
 
 // eseguo un if else per dire all'utente se la parola e palindroma oppure no
-verifica = controlloParola(parola);
+let verifica = controlloParola(parola);
 
 if (verifica == true){
     alert('Questa parola e palindroma');
