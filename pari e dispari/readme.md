@@ -12,4 +12,3 @@ SOLUZIONE:
     6.2 SE l'utente ha selezionato pari e il risultato e dispari ha perso
     6.4 SE l'utente ha selezionato dispari e il risultato e pari ha perso
     6.5 ALTRIMENTI se ha selezionato dispari e il risultato e dispari ha vinto
-    
