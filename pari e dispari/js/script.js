@@ -34,18 +34,18 @@ let get = document.getElementById('btn');
 get.addEventListener('click', function(){
     //estrago il valore del utente
     let userValue = parseInt(oneFive.value);
-    console.log(oneFive.value)
+
     evenodd.value;
-    console.log(evenodd.value)
+
     //genera 1 solo numero number con l'utilizzo della funzione
     
     
     
     for (let i=0; i<1; i++){
         let randomizer = randomNumbers(1, 5);
-        console.log(randomizer);
+    
         let numberSum = randomizer + userValue;
-        console.log(numberSum);
+    
         
         let computer = pariDispari(numberSum)
         let player = evenOddChoice(evenodd.value)
